@@ -32,5 +32,5 @@ The goal is to simplify communication between the college administration and stu
 
 ---
 
-## Project Structure
+
 
